@@ -1,0 +1,15 @@
+Reflections - How to Use Git and GitHub
+
+It can save al to of time to use the command line to compare two versions 		of the same document.
+
+Dropbox has built in version control going back 30 days, google Docs goes back all 	way
+
+manually vs automatically committing: manually makes it easier to save after each 	logical change. downside is that you might forget. with automatic saving 		forgetting will not happen but the versions might not make logical sense
+
+saving multiple files in one commit makes sense because often in programming there are multiple files involved that are interconnected. google docs mostly just deals with individual files that are logically separate from each other
+
+git in command line: 	‘git log’ to get a list of all the commmits’
+			‘git diff’ compare to commits by id number
+
+How might using version control make you more confident to make changes that could break something? i can always go back to where nothing was broken yet	
+			 
